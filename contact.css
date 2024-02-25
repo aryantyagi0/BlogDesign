@@ -1,0 +1,14 @@
+.contact-content{
+      background-color: rgb(248,239,239)
+     /* border: 3px solid red; */
+    /* margin-top: 23px; */
+    /* background-image: url('img/v3.jpg');
+    background-size: cover; */
+}
+.form-box input,textarea{
+    width: 52vw;
+    padding:  6px;
+    border: 2px solid yellow;
+    border-radius: 2px;
+    margin: 7px;
+}
